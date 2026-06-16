@@ -1,3 +1,4 @@
+/*Find the sum of all array elements using an optimized approach.*/
 #include <stdio.h>
 
 int sum(int arr[],int size);

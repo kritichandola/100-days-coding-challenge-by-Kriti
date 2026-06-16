@@ -1,4 +1,4 @@
-/*Find the sum of all array elements using an optimized approach.*/
+/*Find the missing number using an optimized approach.*/
 #include <stdio.h>
 
 int main() {
