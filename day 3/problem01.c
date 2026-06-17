@@ -1,3 +1,4 @@
+// Find the number of occurrences of the target element using an optimized approach.
 #include <stdio.h>
 
 int main() {
